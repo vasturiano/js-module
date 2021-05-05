@@ -8,7 +8,7 @@ export default Kapsule({
 
   stateInit: () => ({}),
 
-  init(domNode, state) {},
+  init(initObj, state) {},
 
   update(state) {}
 
